@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Fizz_buzz
 
 Fizz buzz is a group word game for children to teach them about division. Players take turns to
 count incrementally, replacing any number divisible by 3 with the word "fizz", and any
-number divisible by 5 with the word "buzz".
+number divisible by 5 with the word hgfjycf
 
 Players generally sit in a circle. The player designated to go first says the number "1", and
 each player thenceforth counts one number in turn. However, any number divisible by 3 is
